@@ -19,7 +19,7 @@ pnpm inject   # выбери Discord с VenCord'om -> Inject
 
 Если инсталлятор скажет, что файлы Discord заняты: `taskkill /f /im discord.exe`.
 
-Запуск Discord -> Настройки -> раздел Vencord (иконка внизу списка настроек) -> Plugins -> включи галочку Enable у NyaCord.
+Запуск Discord -> Настройки -> раздел Vencord (иконка внизу списка настроек) -> Plugins -> вкл. галочку Enable у NyaCord.
 
 ## Обновление после правок кода
 
@@ -27,4 +27,4 @@ pnpm inject   # выбери Discord с VenCord'om -> Inject
 pnpm build
 ```
 
-и перезапуск Discord (Настройки → Vencord → Restart Client, или Ctrl+R).
+и перезапуск Discord (Настройки -> Vencord -> Restart Client, или Ctrl+R).
